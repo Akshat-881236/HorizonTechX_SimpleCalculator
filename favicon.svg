@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512">
+
+  <!-- Body -->
+  <rect x="96" y="32" width="320" height="448"
+        rx="32" fill="#111"/>
+
+  <!-- Display -->
+  <rect x="128" y="72" width="256" height="88"
+        rx="12" fill="#fff"/>
+
+  <text x="360" y="128"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        font-weight="700"
+        text-anchor="end"
+        fill="#111">
+    123.45
+  </text>
+
+  <!-- Buttons -->
+  <g font-family="Arial, Helvetica, sans-serif"
+     font-weight="700"
+     font-size="26"
+     fill="#111"
+     text-anchor="middle">
+
+    <!-- Row 1 -->
+    <rect x="128" y="200" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="156" y="238">7</text>
+
+    <rect x="200" y="200" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="228" y="238">8</text>
+
+    <rect x="272" y="200" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="300" y="238">9</text>
+
+    <rect x="344" y="200" width="40" height="56" rx="8" fill="#fff"/>
+    <text x="364" y="238">÷</text>
+
+    <!-- Row 2 -->
+    <rect x="128" y="272" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="156" y="310">4</text>
+
+    <rect x="200" y="272" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="228" y="310">5</text>
+
+    <rect x="272" y="272" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="300" y="310">6</text>
+
+    <rect x="344" y="272" width="40" height="56" rx="8" fill="#fff"/>
+    <text x="364" y="310">×</text>
+
+    <!-- Row 3 -->
+    <rect x="128" y="344" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="156" y="382">1</text>
+
+    <rect x="200" y="344" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="228" y="382">2</text>
+
+    <rect x="272" y="344" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="300" y="382">3</text>
+
+    <rect x="344" y="344" width="40" height="128" rx="8" fill="#fff"/>
+    <text x="364" y="414">+</text>
+
+    <!-- Row 4 -->
+    <rect x="128" y="416" width="128" height="56" rx="8" fill="#fff"/>
+    <text x="192" y="454">0</text>
+
+    <rect x="272" y="416" width="56" height="56" rx="8" fill="#fff"/>
+    <text x="300" y="454">.</text>
+
+  </g>
+</svg>
