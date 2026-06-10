@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HorizonTechX Simple Calculator</title>
+    <meta name="description" content="A sleek and modern calculator app built with HTML, CSS, and JavaScript. Features a dark mode theme and responsive design for all devices." />
+    <meta name="keywords" content="calculator site , Calculator , Standard Calculator" />
+    <meta name="author" content="Akshat Prasad" />
+    <!-- Bootstrap 5 CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body data-theme="dark">
+
+    <!-- Background Effects -->
+    <div class="background-grid"></div>
+    <div class="background-glow"></div>
+    <div class="background-particles"></div>
+
+    <main class="calculator-app">
+
+        <div class="container">
+
+            <div class="row justify-content-center">
+
+                <div class="col-12 col-sm-10 col-md-8 col-lg-6">
+
+                    <section id="calculator" class="calculator">
+
+                        <!-- Header -->
+                        <div class="calculator__header">
+
+                            <div class="calculator__branding">
+                                <h1 class="calculator__title">
+                                    HorizonTechX Calculator
+                                </h1>
+                            </div>
+
+                            <button
+                                id="themeToggle"
+                                class="theme-toggle-btn"
+                                aria-label="Toggle Theme">
+                                🌙
+                            </button>
+
+                        </div>
+
+                        <!-- Display -->
+                        <div id="display" class="calculator__display">
+
+                            <div
+                                id="previousOperand"
+                                class="calculator__previous">
+                            </div>
+
+                            <div
+                                id="currentOperand"
+                                class="calculator__current"
+                                aria-live="polite">
+                                0
+                            </div>
+
+                        </div>
+
+                        <!-- Keypad -->
+                        <div id="keypad" class="calculator__keypad">
+
+                            <!-- Row 1 -->
+                            <button
+                                class="btn-calc btn-action"
+                                data-key="clear"
+                                aria-label="Clear">
+                                C
+                            </button>
+
+                            <button
+                                class="btn-calc btn-action"
+                                data-key="backspace"
+                                aria-label="Backspace">
+                                ⌫
+                            </button>
+
+                            <button
+                                class="btn-calc btn-action"
+                                data-key="%"
+                                aria-label="Percentage">
+                                %
+                            </button>
+
+                            <button
+                                class="btn-calc btn-operator"
+                                data-key="/"
+                                aria-label="Divide">
+                                ÷
+                            </button>
+
+                            <!-- Row 2 -->
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="7"
+                                aria-label="Seven">
+                                7
+                            </button>
+
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="8"
+                                aria-label="Eight">
+                                8
+                            </button>
+
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="9"
+                                aria-label="Nine">
+                                9
+                            </button>
+
+                            <button
+                                class="btn-calc btn-operator"
+                                data-key="*"
+                                aria-label="Multiply">
+                                ×
+                            </button>
+
+                            <!-- Row 3 -->
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="4"
+                                aria-label="Four">
+                                4
+                            </button>
+
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="5"
+                                aria-label="Five">
+                                5
+                            </button>
+
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="6"
+                                aria-label="Six">
+                                6
+                            </button>
+
+                            <button
+                                class="btn-calc btn-operator"
+                                data-key="-"
+                                aria-label="Subtract">
+                                −
+                            </button>
+
+                            <!-- Row 4 -->
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="1"
+                                aria-label="One">
+                                1
+                            </button>
+
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="2"
+                                aria-label="Two">
+                                2
+                            </button>
+
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="3"
+                                aria-label="Three">
+                                3
+                            </button>
+
+                            <button
+                                class="btn-calc btn-operator"
+                                data-key="+"
+                                aria-label="Add">
+                                +
+                            </button>
+
+                            <!-- Row 5 -->
+                            <button
+                                class="btn-calc btn-number btn-zero"
+                                data-key="0"
+                                aria-label="Zero">
+                                0
+                            </button>
+
+                            <button
+                                class="btn-calc btn-number"
+                                data-key="."
+                                aria-label="Decimal">
+                                .
+                            </button>
+
+                            <button
+                                class="btn-calc btn-equals"
+                                data-key="="
+                                aria-label="Equals">
+                                =
+                            </button>
+
+                        </div>
+
+                    </section>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+
+</body>
+</html>
