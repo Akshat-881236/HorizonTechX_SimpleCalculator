@@ -26,8 +26,9 @@ Whether you are using a desktop keyboard, a tablet, or a mobile device, the appl
 ### 🌐 Media & Demonstrations
 
 <div align="center">
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/7LuXz7EFU40?si=y7SIWiC7iHnKDJ7f&autoplay=1&mute=1&loop=1&playlist=7LuXz7EFU40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p><em>Full project breakdown and demonstration.</em></p>
+  <a href="https://www.youtube.com/watch?v=7LuXz7EFU40">
+    <img src="https://img.youtube.com/vi/7LuXz7EFU40/maxresdefault.jpg" alt="Watch the demonstration on YouTube" width="800">
+  </a>
 </div>
 
 **📢 Join the conversation:** [Check out the official launch post on LinkedIn!](https://in.linkedin.com/in/akshat-network-hub)
