@@ -8,10 +8,10 @@
   [![Live Demo](https://img.shields.io/badge/Live_Demo-Play_Now-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://akshat-881236.github.io/HorizonTechX_SimpleCalculator/)
   [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/akshat-881236/HorizonTechX_SimpleCalculator)
   
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)]()
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Akshat-881236/HorizonTechX_SimpleCalculator/blob/main/index.html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/Akshat-881236/HorizonTechX_SimpleCalculator/blob/main/style.css)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Akshat-881236/HorizonTechX_SimpleCalculator/blob/main/script.js)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/Akshat-881236/HorizonTechX_SimpleCalculator/blob/main/index.html)
 
 </div>
 
