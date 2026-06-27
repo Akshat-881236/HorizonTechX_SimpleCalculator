@@ -13,6 +13,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Akshat-881236/HorizonTechX_SimpleCalculator/blob/main/script.js)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/Akshat-881236/HorizonTechX_SimpleCalculator/blob/main/index.html)
 
+## ⚡ Performance Metrics
+We prioritize speed and efficiency. The HorizonTechX Calculator is optimized for both desktop and mobile environments.
+
+[![PageSpeed Desktop](https://img.shields.io/badge/Desktop-98-00ff88?style=for-the-badge&logo=google-pagespeed-insights)](https://pagespeed.web.dev/analysis/https-akshat-881236-github-io-HorizonTechX-SimpleCalculator/paxbreuztf?utm_source=search_console&form_factor=desktop&hl=en)
+[![PageSpeed Mobile](https://img.shields.io/badge/Mobile-96-00ff88?style=for-the-badge&logo=google-pagespeed-insights)](https://pagespeed.web.dev/analysis/https-akshat-881236-github-io-HorizonTechX-SimpleCalculator/paxbreuztf?utm_source=search_console&form_factor=mobile&hl=en)
+
 </div>
 
 ---
