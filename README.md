@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/02060a/00ff88?text=HorizonTechX" alt="HorizonTechX Logo" width="120" height="120">
+  <img src="favicon.svg" alt="HorizonTechX Logo" width="120" height="120">
 
   # HorizonTechX Simple Calculator
 
