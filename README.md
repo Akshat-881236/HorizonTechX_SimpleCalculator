@@ -37,7 +37,7 @@ Whether you are using a desktop keyboard, a tablet, or a mobile device, the appl
   </a>
 </div>
 
-**📢 Join the conversation:** [Check out the official launch post on LinkedIn!](https://in.linkedin.com/in/akshat-network-hub)
+**📢 Join the conversation:** [Check out the official launch post on LinkedIn!](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476541565113434112/)
 
 ---
 
